@@ -14,7 +14,7 @@ url: # the base hostname & protocol for your site
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          India/Mumbai
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -38,7 +38,7 @@ owner:
   job: "I am crazy and I know it !"
   bio: "Developer|Blogger|Musician|Traveller"
   email:
-  disqus-shortname:
+  disqus-shortname: disqus-xhnqvb9w3g
   twitter: #username
   facebook: #username
   google:
