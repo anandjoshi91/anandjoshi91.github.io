@@ -4,7 +4,7 @@
 ####################################
 #
 title: Anand
-email:
+email: anandhjoshi@outlook.com
 description: My diary
 url: # the base hostname & protocol for your site
 
@@ -37,10 +37,10 @@ owner:
   avatar: anand.png
   job: "I am crazy and I know it !"
   bio: "Developer|Blogger|Musician|Traveller"
-  email:
+  email: anandhjoshi@outlook.com
   disqus-shortname: disqus-xhnqvb9w3g
   twitter: #username
-  facebook: #username
+  facebook: anand.joshi.790
   google:
     plus: #username
     analytics:
@@ -48,9 +48,9 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: anandjoshi91
   gitlab: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  stackoverflow: 6143348/anand-joshi
   linkedin: #username
   skype: #username
   xing: #username

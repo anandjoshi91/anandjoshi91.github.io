@@ -5,6 +5,7 @@ excerpt: "A new beginning !"
 categories: [me]
 tag: [me,anand]
 comments: true
+author: Anand
 image:
   feature: hello-world.jpg
 ---

@@ -5,6 +5,7 @@ excerpt: "Life is short ! Don't be so serious"
 categories: [philosphy]
 tag: [motivation,philosophy]
 comments: true
+author: Anand
 image:
   feature: nothing-lasts-forever.png
 ---

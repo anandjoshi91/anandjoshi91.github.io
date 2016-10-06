@@ -5,6 +5,7 @@ excerpt: "Motivated !"
 categories: [poem]
 tag: [motivation,poem]
 comments: true
+author: Anand
 image:
   feature: rocky.jpg
 ---
