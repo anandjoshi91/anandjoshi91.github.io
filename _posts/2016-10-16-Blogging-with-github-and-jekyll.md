@@ -42,13 +42,10 @@ Also, download the dev kit.
 
 4) [Install devkit](https://corlewsolutions.com/articles/article-22-install-ruby-devkit-on-windows-7){:target="_blank"}
 
-5) Install Jekyll using the following command :   
+5) Install Jekyll using the following command :
 ~~~
 gem install Jekyll
 ~~~
-
-
-
 
 
 ## Setting up on GitHub :
