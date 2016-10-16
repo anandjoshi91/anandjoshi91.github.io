@@ -43,27 +43,28 @@ Also, download the dev kit.
 4) [Install devkit](https://corlewsolutions.com/articles/article-22-install-ruby-devkit-on-windows-7){:target="_blank"}
 
 5) Install Jekyll using the following command :  
-```
+~~~
 gem install Jekyll
-```
+~~~
 
 
 ## Setting up on GitHub :
 
 As a GitHub user, you are entitled to one free _user_ website as opposed to _Project_ websites. GitHub will by default
 host it on.
+
 ~~~
 http://yourusername.github.io
 ~~~
 
-Create a repo - ``` yourusername.github.io ``` on GitHub. Clone it on the local machine. Create a **index.html** and push it in your repo ! That's it ! GitHub will automatically build your site after every  check in. What we have created is a _static_website.
+Create a repo - ``` yourusername.github.io ``` on GitHub. Clone it on the local machine. Create a **index.html** and push it in your repo ! That's it ! GitHub will automatically build your site after every  check in. What we have created is a _static_ website.
 
 **Now let's create our dynamic Jekyll blog.**  
 
 You may download a template of your choice from the following websites :
-- [http://themes.jekyllrc.org/](http://themes.jekyllrc.org/){:target="_blank"}
-- [https://jekyllthemes.io/](https://jekyllthemes.io/){:target="_blank"}
-- [http://jekyllthemes.org/](http://jekyllthemes.org/){:target="_blank"}
+- [http://themes.jekyllrc.org/](http://themes.jekyllrc.org/){:target="_blank"}  
+- [https://jekyllthemes.io/](https://jekyllthemes.io/){:target="_blank"}  
+- [http://jekyllthemes.org/](http://jekyllthemes.org/){:target="_blank"}  
 
 Or you can fork an existing blog/website. For example here is my blog's [repo](https://github.com/anandjoshi91/anandjoshi91.github.io){:target="_blank"}. I suggest you create your own blog and use my blog just as a reference. If you still want to fork it
 , go ahead and do it but **PLEASE DO NOT FORGET TO CHANGE the following files :  ``` CNAME, _config.yml```**  of course along with personal images and other blog posts !
