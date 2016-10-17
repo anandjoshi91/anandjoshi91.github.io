@@ -62,10 +62,10 @@ Create a repo - ``` yourusername.github.io ``` on GitHub. Clone it on the local 
 
 **Now let's create our dynamic Jekyll blog.**  
 
-You may download a template of your choice from the following websites :  
-* [http://themes.jekyllrc.org/](http://themes.jekyllrc.org/){:target="_blank"}  
-* [https://jekyllthemes.io/](https://jekyllthemes.io/){:target="_blank"}  
-* [http://jekyllthemes.org/](http://jekyllthemes.org/){:target="_blank"}  
+You may download a template of your choice from the following websites :
+- [http://themes.jekyllrc.org/](http://themes.jekyllrc.org/){:target="_blank"}
+- [https://jekyllthemes.io/](https://jekyllthemes.io/){:target="_blank"}
+- [http://jekyllthemes.org/](http://jekyllthemes.org/){:target="_blank"}
 
 Or you can fork an existing blog/website. For example here is my blog's [repo](https://github.com/anandjoshi91/anandjoshi91.github.io){:target="_blank"}. I suggest you create your own blog and use my blog just as a reference. If you still want to fork it
 , go ahead and do it but **PLEASE DO NOT FORGET TO CHANGE the following files :  ``` CNAME, _config.yml```**  of course along with personal images and other blog posts !
@@ -89,8 +89,8 @@ http://127.0.0.1:4000/
 
 This is the coolest part as some blogging platforms charge you for a custom domain. GitHub provides you this feature for free !  
 **We will need to do two things here** :  
-1) Tell our GitHub repo what our domain name is : Create a CNAME file in your root directory. Simply add your domain name in it. Mine contains ``` anandjoshi.me ```. That's it.  
-2) Tell our DNS where our website is hosted : You need to configure A-record with your DNS provider.  
+1. Tell our GitHub repo what our domain name is : Create a CNAME file in your root directory. Simply add your domain name in it. Mine contains ``` anandjoshi.me ```. That's it.  
+2.  Tell our DNS where our website is hosted : You need to configure A-record with your DNS provider.  
 
 ### Dashboard
 ![domain-dashboard](/img/domain-dashboard.PNG)
