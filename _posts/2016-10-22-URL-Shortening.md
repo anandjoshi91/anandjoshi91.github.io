@@ -16,7 +16,7 @@ You open your twitter account, copy the URL and paste it to tweet, but wait ! Th
 
 And then you hear about these amazing tools called - URL Shorteners. They convert the dirty looking urls into short, sweet and slick urls, which can not only be easily shared on twitter and other media but they also provide you a hell lot of analytics and user information.
 
-**Here are some commonly used URL shorteners :**
+**Here are some commonly used URL shorteners :**  
 1. [bit.ly](https://bitly.com/){:target="_blank"}  
 2. [goo.gl](https://goo.gl/){:target="_blank"}  
 3. [ow.ly](http://ow.ly/url/shorten-url){:target="_blank"}  
