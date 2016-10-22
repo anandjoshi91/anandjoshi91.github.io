@@ -17,9 +17,9 @@ You open your twitter account, copy the URL and paste it to tweet, but wait ! Th
 And then you hear about these amazing tools called - URL Shorteners. They convert the dirty looking urls into short, sweet and slick urls, which can not only be easily shared on twitter and other media but they also provide you a hell lot of analytics and user information.
 
 **Here are some commonly used URL shorteners :**
-1. [bit.ly](https://bitly.com/){:target="_blank"} 
-2. [goo.gl](https://goo.gl/){:target="_blank"} 
-3. [ow.ly](http://ow.ly/url/shorten-url){:target="_blank"} 
+1. [bit.ly](https://bitly.com/){:target="_blank"}  
+2. [goo.gl](https://goo.gl/){:target="_blank"}  
+3. [ow.ly](http://ow.ly/url/shorten-url){:target="_blank"}  
 
 
 ## Well, but how does URL shortening work ?
@@ -37,11 +37,13 @@ Let us create a small ``` django project ``` to uderstand how URL shortening wor
 You may fork my project [url-shortener](https://github.com/anandjoshi91/url-shortener){:target="_blank"}  from the GitHub.
 
 After forking the above repo, change the log path in ``` shorturl/settings.py ``` and run the application by typing the following command
+
 ~~~
 python manage.py runserver
 ~~~
 
 This will create the ``` shorturl/db.sqlite3 ``` file. After this run the DB migrations to create the required tables by using the following command.
+
 ~~~
 python manage.py migrate
 ~~~
