@@ -48,3 +48,5 @@ The old [scheduled mail](https://www.futureme.org/){:target="_blank"} was writte
 >-- Raj , 23rd March 2003
 
 Tears rolled down the cheeks as he was intervened by his own past. In next five minutes, he dropped a resignation to his manager, something that he should have done 7 years ago. He called up Tanya to end the stagnant relationship, something that he should have done 4 years ago. And finally, he booked a single one-way ticket to Auckland, where his passion for wildlife beckons him ! - Something he could have only done by listening to his inner voice :)
+
+It is funny to see what an ```old letter``` can do in five minutes, what a person could not in a decade's worth of time !
