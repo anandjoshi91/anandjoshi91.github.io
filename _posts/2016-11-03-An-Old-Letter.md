@@ -35,7 +35,7 @@ The old [scheduled mail](https://www.futureme.org/){:target="_blank"} was writte
 >You wouldn't know if it was the right decision or not ? As a matter of fact, there is no right answer to it.
 >You , My friend, you are the one who has to make it right for what it's all worth for.
 >As it is rightly said you cannot connect the dots going forward but only going backward.
->So step away , move ahead and fill your heart and mind with that hope of connecting the dots will inspire generations to come.
+>So step away , move ahead and fill your heart and mind with that hope of connecting the dots in a story that will inspire generations to come.
 >
 >If it all ends well, you'll have a hell of a story, if it doest then the story isn't over yet. 
 >I hope you live a life that you are proud of , it's okay if the dots still don't connect 
