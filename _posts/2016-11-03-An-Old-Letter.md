@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Old Letter
-excerpt: "Sometimes only you and only can help yourself..."
+excerpt: "Sometimes you and only can help yourself..."
 categories: [story]
 tag: [motivation,story]
 comments: true
