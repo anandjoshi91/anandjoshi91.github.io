@@ -8,6 +8,13 @@ email: anandhjoshi@outlook.com
 description: My diary
 url: # the base hostname & protocol for your site
 
+#
+###################################
+# Pagination
+gems: [octopress-paginate]
+pagination:
+  limit: false
+  per_page: 5
 
 #
 ###################################
