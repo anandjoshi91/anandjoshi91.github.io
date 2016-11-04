@@ -12,9 +12,8 @@ url: # the base hostname & protocol for your site
 ###################################
 # Pagination
 ###################################
-pagination:
-  limit: false
-  per_page: 5
+gems: [jekyll-paginate]
+paginate: 5
 
 #
 ###################################
