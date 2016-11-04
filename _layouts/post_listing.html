@@ -1,9 +1,8 @@
 ---
 layout: default
-paginate: true
 ---
 
-{% for post in paginator.posts %}
+{% for post in site.posts %}
 <section class="post">
   <header class="post-header">
     <p class="post-meta">
@@ -61,13 +60,3 @@ paginate: true
 
 </section>
 {% endfor %}
-
-  <div class="pagination">
-    {% if paginator.next_page %}
-    <a class="btn btn-success" href="{{paginator.next_page_path}}">&larr; Older</a>
-    {% endif %}
-
-    {% if paginator.previous_page %}
-    <a class="btn btn-info" href="{{paginator.previous_page_path}}">Newer &rarr;</a>
-    {% endif %}
-  </div>
