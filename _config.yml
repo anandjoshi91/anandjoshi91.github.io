@@ -11,7 +11,6 @@ url: # the base hostname & protocol for your site
 #
 ###################################
 # Pagination
-gems: [octopress-paginate]
 pagination:
   limit: false
   per_page: 5
@@ -33,6 +32,9 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   enable_coderay: false
+
+gems:
+   - octopress-paginate
 
 #
 ###################################
