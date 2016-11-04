@@ -16,6 +16,10 @@ pagination:
   limit: false
   per_page: 5
 
+
+# Gems
+gems: [octopress-paginate]
+
 #
 ###################################
 # Jekyll configuration
