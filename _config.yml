@@ -35,6 +35,7 @@ kramdown:
 
 gems:
    - octopress-paginate
+   - octopress-hooks
 
 #
 ###################################
