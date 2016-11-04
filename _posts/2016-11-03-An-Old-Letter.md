@@ -37,7 +37,7 @@ The old [scheduled mail](https://www.futureme.org/){:target="_blank"} was writte
 >As it is rightly said you cannot connect the dots going forward but only going backward.
 >So step away , move ahead and fill your heart and mind with that hope of connecting the dots in a story that will inspire generations to come.
 >
->If it all ends well, you'll have a hell of a story, if it doest then the story isn't over yet. 
+>If it all ends well, you'll have a hell of a story, if it doesn't then the story isn't over yet. 
 >I hope you live a life that you are proud of , it's okay if the dots still don't connect 
 >but you know what , I want, I want every single page of that book to be a thriller !
 >

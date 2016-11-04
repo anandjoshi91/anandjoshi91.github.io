@@ -2,6 +2,17 @@
 layout: default
 ---
 
+<div id="search" style="float: right;">
+  <form role="search" method="get" action="{{site.baseurl}}/search/" class="form-inline">
+     <div class="form-group">
+       <input style="height:36px;font-size:12pt; class="form-control" id="searchString" name="searchString"
+              placeholder="Search for articles..." type="text">
+       <input class="btn btn-success" id="searchButton" name="googleSearchName" type="submit" value="Search">
+     </div>  
+  </form>
+</div>
+
+
 {% for post in paginator.posts %}
 <section class="post">
   <header class="post-header">
