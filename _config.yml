@@ -40,8 +40,8 @@ kramdown:
 #
 owner:
   name: Anand Joshi
-  avatar: anand.png
-  job: "I am crazy and I know it !"
+  avatar: anand.jpg
+  job: "Random thoughts & Stories"
   bio: "Developer|Blogger|Musician|Traveller"
   email: anandhjoshi@outlook.com
   disqus-shortname: disqus-xhnqvb9w3g
@@ -57,7 +57,7 @@ owner:
   github: anandjoshi91
   gitlab: #username
   stackoverflow: 6143348/anand-joshi
-  linkedin: #username
+  linkedin: anand-joshi-84a01437
   skype: #username
   xing: #username
   instagram: #username
@@ -68,7 +68,7 @@ owner:
   steam: #username
   dribbble: #username
   youtube: #username
-  soundcloud: #username
+  soundcloud: anand-joshi-5
   weibo: #username
   flickr: #username
   500px: #username
