@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'github-pages'
-gem 'octopress-paginate'
-gem 'jekyll-sass-converter'
+group :jekyll_plugins do
+  gem 'octopress-paginate'
+end
