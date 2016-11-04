@@ -61,7 +61,7 @@ layout: default
 </section>
 {% endfor %}
 
-<div class="pagination">
+<div class="pagination" align="center">
   <ul>
     {% if paginator.previous_page %}
       {% if paginator.previous_page == 1 %}
@@ -108,4 +108,16 @@ layout: default
       </li>
     {% endif %}
   </ul>
+</div>
+
+<br>
+
+  <div id="search" align="center">
+  <form role="search" method="get" action="{{site.baseurl}}/search/" class="form-inline">
+     <div class="form-group">
+       <input style="height:36px;font-size:12pt"; id="searchString" name="searchString"
+              placeholder="Search for articles..." type="text">
+       <input class="btn btn-success" id="searchButton" name="googleSearchName" type="submit" value="Search">
+     </div>  
+  </form>
 </div>
