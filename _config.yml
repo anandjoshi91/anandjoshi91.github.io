@@ -26,6 +26,7 @@ highlighter:       rouge
 excerpt_separator: <!--more-->
 permalink:         /articles/:year-:month/:title
 exclude: ['README.md','LICENSE.txt','CNAME']
+include: ['.htaccess']
 
 kramdown:
   auto_ids: true
