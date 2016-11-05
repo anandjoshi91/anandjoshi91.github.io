@@ -5,7 +5,7 @@
 #
 title: Anand
 email: anandhjoshi@outlook.com
-description: My diary
+description: "Random articles on topics from programming to pink-floyd"
 url: # the base hostname & protocol for your site
 
 #
@@ -20,11 +20,12 @@ paginate: 5
 # Jekyll configuration
 ####################################
 #
-timezone:          India/Mumbai
+timezone:          Asia/Calcutta
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
 permalink:         /articles/:year-:month/:title
+exclude: ['README.md','LICENSE.txt','CNAME']
 
 kramdown:
   auto_ids: true
