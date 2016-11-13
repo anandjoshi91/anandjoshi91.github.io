@@ -12,8 +12,8 @@ image:
 
 > Do it and regret. Don't do it and regret more !
 
-It's not working out, I think we should move on. He knew Tanya and her idiosyncrasies. I know 
-she would be fine tomorrow morning he reminded like he always did.
+"It's not working out, I think we should move on." He knew Tanya and her idiosyncrasies. "I know 
+she would be fine tomorrow morning" he reminded himself like he always did.
 
 Like a weed clinging to a cracked wall, Raj was clinging on to his dying relationship.
 And if you think this was not the end then perhaps you should know how he abandoned his startup only to realize
