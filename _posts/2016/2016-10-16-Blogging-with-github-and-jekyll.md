@@ -50,7 +50,7 @@ Also, download the dev kit.
 gem install Jekyll
 ~~~
 
-If the above installation fail due to [SSL error](https://gist.github.com/luislavena/f064211759ee0f806c88){:target="_blank"}, then use this the below command. (Using http instead of default https)
+If the above installation fails due to [SSL error](https://gist.github.com/luislavena/f064211759ee0f806c88){:target="_blank"}, then use this the below command. (Using http instead of default https)
 
 ~~~
 gem install Jekyll --source http://rubygems.org/
