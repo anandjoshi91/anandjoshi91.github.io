@@ -22,11 +22,11 @@ I know it will be freakin difficult to get out of it. You say you're nice and ge
 
 You might ask,
 
-Why is life not fair to me ? Why did such things happen to me ? Why ? Now don't sit and cry around like a baby. Life is and will be unfair. That's why you have hands and some cripples don't. You have a family while others don't. That's why you had an education and someone to look after you, food, shelter and proper meals, some people didn't even get that !. STOP making this about YOU ! Accept it and move ahead. 
+Why is life not fair to me ? Why did such things happen to me ? Why ? Now don't sit and cry around like a baby. Life is and will be unfair. That's why you have hands and some cripples don't. You have a family while others don't. That's why you had an education and someone to look after you, food, shelter and proper meals, some people didn't even get that ! STOP making this about YOU ! Accept it and move ahead. 
 
 You might ask, 
 
-Why is it so easy to lie and not be honest ? Why is it so easy to hate and not love someone ? Why ? Because freakin losers and cowards chose the easy path. You are better than this. You - yes you. Look me straight into the eyes - I am talking to you. Tell me right here, right now. Repeat with me. 
+Why is it so easy to lie and not be honest ? Why is it so easy to hate and not love someone ? Why ? Because freakin losers and cowards choose the easy path. You are better than this. You - yes you. Look me straight into the eyes - I am talking to you. Tell me right here, right now. Repeat with me. 
 
 - " I will be nice not because I have to, but because I am. "
 - "I will forgive not because they deserve forgiveness, but because I deserve a peace of mind. "
