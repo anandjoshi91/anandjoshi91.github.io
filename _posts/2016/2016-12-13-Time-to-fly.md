@@ -28,9 +28,9 @@ You might ask,
 
 Why is it so easy to lie and not be honest ? Why is it so easy to hate and not love someone ? Why ? Because freakin losers and cowards choose the easy path. You are better than this. You - yes you. Look me straight into the eyes - I am talking to you. Tell me right here, right now. Repeat with me. 
 
-- " I will be nice not because I have to, but because I am. "
-- "I will forgive not because they deserve forgiveness, but because I deserve a peace of mind. "
-- "I am better than this and I deserver better. "
+> 1. " I will be nice not because I have to, but because I am. "
+> 2. " I will forgive not because they deserve forgiveness, but because I deserve a peace of mind. "
+> 3. " I am better than this and I deserve better. "
 
 
 It's okay if others or that person thought of you as some peace of dirty rock, they haven't seen the diamond in you. 
