@@ -6,6 +6,8 @@ categories: [geek]
 tag: [url shortening,url shorteners,geek]
 comments: true
 author: Anand
+sitemap:
+    lastmod: 2016-12-14T00:00:00+05:30
 image:
   feature: turn-long-short.jpg
 ---
@@ -30,6 +32,10 @@ Let us paraphrase what URL shortening tools do. They convert a long arbitrary le
 also understand that essentially these tools are just mapping one set to another, but where one set is very large, probably infinite where as the other is a smaller and finite set. Does this sound a bit familiar to the computer science guys ? Yes this is ``` Hashing ``` ! It has wide usage from designing a HashMap, Lookup tables to creating a md5 hash for cryptographic purpose.
 
 ![hashing](/img/hashing.PNG)
+
+## But why hash when you can use random short strings ?
+
+Yes. This is a valid approach. The original long url would be mapped to a short sequence of random strings. One reason where hashing would have advantage over random strings is, if for some reason my database crashes and I do not have a backup then I would not be able to recover the short url even if I managed to pull the old long url (say from some other user account data, app logs etc). Hashing will guarantee me that it will reproduce the same old short url for the original url. Just a design perspective we might consider while building this app.
 
 ## A demo project
 
