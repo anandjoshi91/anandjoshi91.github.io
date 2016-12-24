@@ -25,7 +25,7 @@ am not here to discuss which would be the best one but rather I would like to di
 - **Fast** : Experience it yourself.
 - **Minimal** : Super light-weight and easy to mange.
 - **Convenient hosting** : GitHub takes care of hosting your website/blog
-- **Personal Domain** : Setting up a personal domain is free !
+- **Personal Domain** : Linking up your personal domain is free !
 
 
 
@@ -94,7 +94,7 @@ http://127.0.0.1:4000/
 
 ## Configuring your own domain :
 
-This is the coolest part as some blogging platforms charge you for a custom domain. GitHub provides you this feature for free !  
+This is the coolest part as some blogging platforms charge you a fee for linking a custom domain. GitHub provides you this feature for free !  
 **We will need to do two things here** :  
 1. Tell our GitHub repo what our domain name is : Create a CNAME file in your root directory. Simply add your domain name in it. Mine contains ``` anandjoshi.me ```. That's it.  
 2.  Tell our DNS where our website is hosted : You need to configure A-record with your DNS provider.  
