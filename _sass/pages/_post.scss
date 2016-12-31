@@ -294,4 +294,43 @@ a.read-more {
   background-color: whiteSmoke;
 }
 
+.album {
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+    height: 500px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    background-color: #eee;
+
+}
+
+
+.album figure {
+  display: inline-block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+}
+
+.album figure img {
+    display: inline-block;
+    border: 3px solid rgba(255, 255, 255, 0.5);
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
+    margin: 0 10px;
+    box-sizing: border-box;
+    cursor: pointer;
+
+}
+
+.album figure figcaption {
+    font-weight: bold;
+    font-style: italic;
+    color: #09ABF6;
+    font-size: 13px;
+}
+
+
+
+
 
