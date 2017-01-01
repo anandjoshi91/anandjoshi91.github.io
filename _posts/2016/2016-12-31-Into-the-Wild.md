@@ -18,7 +18,7 @@ image:
 Over fifteen months had passed since the college had last ended and the wild and free animal within us
 was tamed and chained in the Zoo, which otherwise is known as the corporate cubicle. It had been more than 7 months since I had even talked to him, but then that's how bros are. We don't need to talk or meet more often. One meet is more than enough to plan a **Legen** - wait for it -  .....  
 
-The decision was made just a few minutes after we met.
+The decision was made just a few minutes after we met.  
 - 2-3 Weeks off from work.
 - Some trek in Uttrakhand.
 - Backpacking North India. 
