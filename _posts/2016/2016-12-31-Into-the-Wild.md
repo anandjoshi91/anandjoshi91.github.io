@@ -19,9 +19,9 @@ Over fifteen months had passed since the college had last ended and the wild and
 was tamed and chained in the Zoo, which otherwise is known as the corporate cubicle. It had been more than 7 months since I had even talked to him, but then that's how bros are. We don't need to talk or meet more often. One meet is more than enough to plan a **Legen** - wait for it -  .....  
 
 The decision was made just a few minutes after we met.
-- 2-3 Weeks off from work.
-- Some trek in Uttrakhand.
-- Backpacking North India. 
+* 2-3 Weeks off from work.
+* Some trek in Uttrakhand.
+* Backpacking North India. 
 
 Called up another bro, back in Chennai. Without any hesitation, he too was in. This was our first - Yes first trek ever in life. (Hadn't even done the simple ones near Pune in Maharashtra). And here we were planning to trek in the Himalayas on our own! But then what else do you expect from emotionally charged bros who were meeting after ages?
 
