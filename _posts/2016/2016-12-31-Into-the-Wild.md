@@ -117,7 +117,7 @@ Har-Ki-Doon was still 12Km and 3000 feet hike from Osla. The weather had taken a
 
 I know there are people who would have more crazy stories and experiences to narrate but then I am not here to sell my story. I am here to just share an experience that has made me value so many little things in life which I used to take it for granted. It saddens me to see that the next generation would hardly even get a chance to see the true beauty of our nature, although I am sure what I saw was hardly a fraction of what it used to be some decades ago. It is up to us to preserve our mother earth. 
 
-Sitting in a comfortable couches with every possible amenities a click away, we are cribbing for pointless things and there I saw people in the village of Osla, hiking for miles even in their illness to fetch water. Traveling and meeting people, hearing their stories has made me value my life more. I feel even more gratitude for things which I did not perceive, forget about appreciating it before!
+Sitting in a comfortable couch with every possible amenities a click away, we are cribbing for pointless things and there I saw people in the village of Osla, hiking for miles even in their illness to fetch water. Traveling and meeting people, hearing their stories has made me value my life more. I feel even more gratitude for things which I did not perceive, forget about appreciating it before!
 
 
 I remember cursing myself when I was completely drained and exhausted, promising myself never to go for a trek again, and here I was six months later on another Himalayan trek with my Mom (again a first-time trekker !). I wonder at times why do I hate it but in the end, I end up loving it more than ever. That is when I remember that
