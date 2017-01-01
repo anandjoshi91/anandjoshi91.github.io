@@ -48,6 +48,9 @@ We started our trek from Taluka with Prakash and another solo trekker who became
 
 Har-Ki-Doon was still 12Km and 3000 feet hike from Osla. The weather had taken a turn for worse and villagers warned us not to trek in this weather. The inclement weather had forced several trekking groups with sophisticated gears than us to return back. We decided to leave things to fate and went into a deep slumber to rest our aching bodies. I woke up at midnight to answer the nature's call. I walked out of the house in pitch darkness only to be lit up by the milky way! The uncanny silence and the chilling winds were both eerie and beautiful. For a moment, I forgot the purpose of my outdoor visit and just stared at this engulfing Sky - so humbling and so divine it was - words will fall short to describe that [feeling](/articles/2016-06/Nyctophile){:target="_blank"}.
 
+![Into the Wild](/img/2016/into-the-wild.jpg)  
+ <span style="float: left;" class="image-credit">A road less traveled</span><br/>
+
 
 `14th December. 10:30 AM` 
 
@@ -121,7 +124,7 @@ I remember cursing myself when I was completely drained and exhausted, promising
 
 
 ## Some memories:
-(Scrolls horizontally)
+`(Scrolls horizontally)`
 
 <div class="album">
     <figure>
