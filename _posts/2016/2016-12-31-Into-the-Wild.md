@@ -15,10 +15,12 @@ image:
 ## Plan
 
 `October 2015. Nariman Point, Mumbai`   
-Over fifteen months had passed since the college had last ended and the wild and free animal within us
-was tamed and chained in the Zoo, which otherwise is known as the corporate cubicle. It had been more than 7 months since I had even talked to him, but then that's how bros are. We don't need to talk or meet more often. One meet is more than enough to plan a **Legen** - wait for it -  .....  
+Over fifteen months had passed since the college had last ended and the wild and free animals within us
+were tamed and chained in the zoo, which otherwise is known as the corporate cubicle. It had been more than seven months since I had even talked to him, but then that's how bros are. We don't need to talk or meet more often. One meet is more than enough to plan a **Legen** - wait for it -  .....  
 
-The decision was made just a few minutes after we met.  
+The decision was made just a few minutes after we met.
+
+
 - 2-3 Weeks off from work.
 - Some trek in Uttrakhand.
 - Backpacking North India. 
@@ -26,12 +28,12 @@ The decision was made just a few minutes after we met.
 
 Called up another bro, back in Chennai. Without any hesitation, he too was in. This was our first - Yes first trek ever in life. (Hadn't even done the simple ones near Pune in Maharashtra). And here we were planning to trek in the Himalayas on our own! But then what else do you expect from emotionally charged bros who were meeting after ages?
 
-## Stairways to heaven
+## Stairways to Heaven
 
 The bro from Chennai could not make it because of the floods and heavy rains in the East coast of India. It was a difficult decision for us as the most experienced guy in the gang had dropped out. The tickets were booked, parents flawlessly convinced and urge to break free from this mundane life that led us to Delhi via Duronto Express on the `11th of December 2015`. After reaching Delhi the following day, we quickly rushed to the cloak room on the railway station to get rid of our heavy trekking gears. The next train - Nanda Devi Express was due midnight and we had close to 6 hours to kill. We braced the streets of Delhi, walked up to Rashtrapati Bhavan from India Gate, ate chat, parathas, sweets, and cookies on the streets of Delhi.
 
-`12th December 2015. 5:45AM. Dehradun Railway Station.`  
-The cold winds of North welcomed us as we walked out of the railway station. We were looking for a ride to a small village called Purola, from where our trek guide would join us. With hardly any tourists or trekker to share the ride, the cab seemed to be an expensive affair (~6000 INR). So, in the end, we decided to hop into the stingy state bus which took longer time but cost us little more than 450 bucks to get there.
+`12th December 2015. 5:45AM.`  
+The cold winds of North welcomed us as we walked out of the Dehradun railway station. We were looking for a ride to a small village called Purola, from where our trek guide would join us. With hardly any tourists or trekkers to share the ride, the cab seemed to be an expensive affair (~6000 INR). So, in the end, we decided to hop into the stingy state bus which took longer time but cost us little more than 450 bucks to get there.
 
 `10:30AM. Purola.`  
 We picked up Prakash, at Purola and got into the only cheap option left to us - a private bus from Purola to the base camp, Sankri (located at 6000 feet in Govind National Park, Dehradun). Accustomed to Virar local in Mumbai, I was used to sharing my seat with people but this bus journey also taught me to share my seat with a GOAT! - Yes, a freaking Goat sat next to me for close to 5 hours!
@@ -99,7 +101,9 @@ Har-Ki-Doon was still 12Km and 3000 feet hike from Osla. The weather had taken a
 ## Backpacking
 
 `16-25th December`  
- The journey didn't end here. This was followed by 
+ The journey didn't end here. This was followed by
+
+
  - 2 Days exploring Dehradoon.
  - Going half way to Mussoorie, just to have food at a restaurant having rating of 4.9/5.0 on [Zomato](https://www.zomato.com/dehradun/orchard-rajpur){:target="_blank"}.
  - Going to Rishikesh. Free fall from 300 feet hight - Bungee jumping. (Still can't forget how the guy butt-kicked Wagga)
