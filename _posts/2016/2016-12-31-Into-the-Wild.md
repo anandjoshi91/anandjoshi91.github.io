@@ -68,7 +68,7 @@ Har-Ki-Doon was still 12Km and 3000 feet hike from Osla. The weather had taken a
  Days are shorter and even more so in the mountains. The plan to continue hiking was turning out to be a disaster. I was slowing down Wagle and Prakash, who were also carrying half of my luggage by now. Time was running out, any mishap here could be fatal. The sapped out mind and body also knew this and was already operating on its survival mode. With hand gloves lost and jackets stuffed inside the bag (had removed heavy jackets earlier as it was warm in the noon), the frigid winds were now chilling our bones. But there was not even time to be wasted in removing a jacket and another glove. Any further delay could cost us our life.
 
  `14th December. 6:30 PM`  
- After 8 hours, 12 Kms and 3000 feet we reached Har-Ki-Doon ( at ~12,000 feet altitude) in near darkness. Prakash gathered some firewood while Wagle and  I put our feet straight into a fire like a BBQ. The first-degree frostbites had made our fingers numb. The sweat in the socks was also frozen. We just kept quiet and stared at the fire while Prakash was melting some snow to cook maggie. It was the closest that we had come to death and this very feeling that we were alive was both satisfying and infuriating. After what seemed like an eternity, I broke the silence -
+ After 8 hours, 12 Kms and 3000 feet we reached Har-Ki-Doon ( at ~12,000 feet altitude) in near darkness. Prakash gathered some firewood and ice for cooking while Wagle and  I put our feet straight into a fire like a BBQ. The first-degree frostbites had made our fingers numb. The sweat in the socks was also frozen. We just kept quiet and stared at the fire while Prakash was melting some snow to cook maggie. It was the closest that we had come to death and this very feeling that we were alive was both satisfying and infuriating. After what seemed like an eternity, I broke the silence -
 
  > " Don't you think this would be a hell of a story for our grandkids someday? "
 
@@ -106,7 +106,7 @@ Har-Ki-Doon was still 12Km and 3000 feet hike from Osla. The weather had taken a
 
  - 2 Days exploring Dehradoon.
  - Going half way to Mussoorie, just to have food at a restaurant having rating of 4.9/5.0 on [Zomato](https://www.zomato.com/dehradun/orchard-rajpur){:target="_blank"}.
- - Going to Rishikesh. Free fall from 300 feet hight - Bungee jumping. (Still can't forget how the guy butt-kicked Wagga)
+ - Going to Rishikesh. Free fall from 300 feet height - Bungee jumping. (Still can't forget how the guy butt-kicked Wagga)
  - Haridwar. Attended the vibrant Ganga Aarti there.
  - Checked in at a cheap hotel in Agra at 4:30 AM. Visited Taj Mahal after a nap. Got kicked out early morning,4:30 AM the next day, in this cold winter as the hotel had "24-hour check-in policy". Now I know why they built a mental hospital in Agra.
  - Finally back to Delhi. Visited the historical places and of course hogged on the street food of Chandni chowk!
