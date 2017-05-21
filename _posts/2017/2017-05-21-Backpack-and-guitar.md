@@ -35,8 +35,8 @@ Four months and two solo backpacking trips later, I can only say that whatever h
 > there are somethings that travelling teaches - which ain't there in any book,  
 
 > there won't be a better time, now is always a better option,  
-> don't drench yourself, in pond of regrets,  
-> if it bothers much then take a leap of faith, nothing gained if nothing ventured,  
+> don't drench yourself, in a pond of regrets,  
+> if it bothers much then take a leap of faith, nothing gained if nothing's ventured,  
 > You've got one life - so live it to its fullest !  
 
 <br/>
