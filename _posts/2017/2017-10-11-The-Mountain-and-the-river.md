@@ -27,7 +27,7 @@ He picked up his guitalele and started.
 > I am gonna tell you a story..  
 > story of `mountain and a river`..    
 > listen closely my daughter..  
-> story him and her..  
+> story of him and her..  
 
 > He was a boulder, taller than sky..  
 > little did he move when the tide was high..  
@@ -56,7 +56,7 @@ there lay a beautiful blue lake in the crater up above the mountain.
 > living happily forever..  
 > the mountain and river  
 
-"Aren't you two sleeping now ??" - yelled the "river" from another room !
+"Aren't you two sleeping now ??" - yelled the `lake` from another room !
 
 
 
