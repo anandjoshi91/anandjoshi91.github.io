@@ -38,11 +38,11 @@ If the above story sounded a bit unrealistic then I would like you to try and fi
 - Why does the price of things having "real" value like Gold/Silver/Real estate, over long run keep rising? [Does it not sound familiar to the Goldsmith's analogy ?]
 - Why is there always an inflation?
 
-Today's banks work on a (fractional reserve system)[https://www.investopedia.com/terms/f/fractionalreservebanking.asp]{:target="_blank"}, which says that a bank can loan out certain times more than the actual cash that they have. As discussed above such a system is prone to abuse and would eventually collapse, sinking everyone else with it. The power to create value / to create "money" should not rest in the hands of few but in the hands of all!
+Today's banks work on a [fractional reserve system](https://www.investopedia.com/terms/f/fractionalreservebanking.asp){:target="_blank"}, which says that a bank can loan out certain times more than the actual cash that they have. As discussed above such a system is prone to abuse and would eventually collapse, sinking everyone else with it. The power to create value / to create "money" should not rest in the hands of few but in the hands of all!
 
 
 ## Decentralizing power
-Now that you understand the problems faced by our monetary system and its source, the next obvious question would be - How can we ensure that the financial institutes, the government, and the central banks don't abuse the powers vested upon them? One solution is to enforce a stringent monetary policy like ("Bretton Woods System")[https://en.wikipedia.org/wiki/Bretton_Woods_system]{:target="_blank"}, this part is easy but the difficult part is to ensure that this policy is strictly adhered to. Such regulations rely on trust and you see trust and faith are not absolute but rather quite floating these days.
+Now that you understand the problems faced by our monetary system and its source, the next obvious question would be - How can we ensure that the financial institutes, the government, and the central banks don't abuse the powers vested upon them? One solution is to enforce a stringent monetary policy like ["Bretton Woods System"](https://en.wikipedia.org/wiki/Bretton_Woods_system){:target="_blank"}, this part is easy but the difficult part is to ensure that this policy is strictly adhered to. Such regulations rely on trust and you see trust and faith are not absolute but rather quite floating these days.
 
 
 <p align="center">
