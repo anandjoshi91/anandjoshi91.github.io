@@ -2,7 +2,7 @@
 layout: post
 title: Decrypting Crypto Currencies
 excerpt: "Understanding Bitcoin, Cryptocurrencies, Monetory system, Blockchain and more"
-categories: [geek]
+categories: [geek,social]
 tag: [geek,bitcoin,blockchain,cryptocurrency]
 comments: true
 author: Anand
@@ -49,7 +49,7 @@ Now that you understand the problems faced by our monetary system and its source
 	<img src="/img/2017/decentralize.jpg" alt="Power to all" />
 </p>
 
-So now coming to the last part of this post, what if I told you that we could have a system where nobody - be it Government, Central Bank, Big corporations - absolutely nobody can manipulate the monetary system. This system grows and develops by overall consensus of the society. It fosters trade, partnership and everything you could imagine in a regular world to be done without having to trust the other parties, without having the overhead of legal contracts and securities etc. The word trust is never used in this system as there is no need to trust any central authority! It might sound too good to be true, but don't worry all of that will be clear in the second post where we get pretty technical and explore the fundamentals of the first cryptocurrency - Bitcoin and it's underlying technology - blockchain!
+So now coming to the last part of this post, what if I told you that we could have a system where nobody - be it Government, Central Bank, Big corporations - absolutely nobody can manipulate the monetary system. This system grows and develops by overall consensus of the society. It fosters trade, partnership and everything you could imagine in a regular world to be done without having to trust the other parties, without having the overhead of legal contracts and securities etc. The word trust is never used in this system as there is no need to trust any central authority! It might sound too good to be true, but don't worry all of that will be clear in the [second post](/articles/2017-12/Understanding-Bitcoin){:target="_blank"} where we get pretty technical and explore the fundamentals of the first cryptocurrency - Bitcoin and it's underlying technology - blockchain!
 
 If you now have some understanding of how money works and would like to get an even deeper understanding of it then I would urge you to go and check out this video.
 
