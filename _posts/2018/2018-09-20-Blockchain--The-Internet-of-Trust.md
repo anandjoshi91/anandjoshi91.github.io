@@ -63,8 +63,8 @@ So next time your manager barges in and talks about doing this new project using
 </p>
 
 ### Other novel ideas
-- There are various experimentation going on reduce the energy wastage caused by the Proof of Work consensus algorithm. Alternate consensus algorithms like Proof of stake, Proof of Elapsed time etc are being tested out to see their viability of existing mechanisms.
-- An improvement over the blockchain latency is being tacked by new ideas which use completely different data structures other than "chain of blocks". One such example is [HashGraph](https://www.hederahashgraph.com/).
+- There are various experimentation going on to reduce the energy wastage caused by the Proof of Work consensus algorithm. Alternate consensus algorithms like Proof of stake, Proof of Elapsed time etc are being tested out to see their viability over the existing mechanisms.
+- An improvement over the blockchain latency is being tackled by new ideas which use completely different data structures other than "chain of blocks". One such example is [HashGraph](https://www.hederahashgraph.com/).
 - Not all blockchains are public and open to all, some of them could be regulated and would require permission to join. Such blockchains could be used by Government, Private companies or group of companies requiring some shared data which should not be public, yet the members would like the power to be distributed amongst the participating members. Such private and hybrid blockchains are also coming up.
 
 ## Next
