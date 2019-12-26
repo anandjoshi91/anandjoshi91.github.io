@@ -10,10 +10,13 @@ url: https://anandjoshi.me
 
 #
 ###################################
-# Pagination
+# Plugins
 ###################################
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate, jekyll-mermaid]
 paginate: 5
+mermaid:
+  src: '/js/mermaid.min.js'
+
 
 #
 ###################################
