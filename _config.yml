@@ -12,7 +12,9 @@ url: https://anandjoshi.me
 ###################################
 # Plugins
 ###################################
-plugins: [jekyll-paginate, jekyll-mermaid]
+plugins:
+  - jekyll-paginate
+  - jekyll-mermaid
 paginate: 5
 mermaid:
   src: '/js/mermaid.min.js'

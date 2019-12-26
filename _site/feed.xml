@@ -3,10 +3,10 @@
   <channel>
     <title>Anand</title>
     <description>Random articles on topics from programming to pink-floyd</description>
-    <link>https://anandjoshi.me/</link>
-    <atom:link href="https://anandjoshi.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 26 Dec 2019 19:30:40 +0530</pubDate>
-    <lastBuildDate>Thu, 26 Dec 2019 19:30:40 +0530</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 26 Dec 2019 19:44:09 +0530</pubDate>
+    <lastBuildDate>Thu, 26 Dec 2019 19:44:09 +0530</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -235,8 +235,8 @@ sequenceDiagram
 &lt;p class=&quot;notice&quot;&gt;Hope this gives you some more idea about how cryptography is used for web security. Let me know your thoughts and suggestions in the comment section below.&lt;/p&gt;
 </description>
         <pubDate>Thu, 12 Dec 2019 00:00:00 +0530</pubDate>
-        <link>https://anandjoshi.me/articles/2019-12/Security-Basics</link>
-        <guid isPermaLink="true">https://anandjoshi.me/articles/2019-12/Security-Basics</guid>
+        <link>http://localhost:4000/articles/2019-12/Security-Basics</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2019-12/Security-Basics</guid>
         
         <category>geek</category>
         
@@ -312,8 +312,8 @@ sequenceDiagram
 &lt;p&gt;I think by now you have enough background and motivation to understand what a blockchain is, what does it try to solve and what are its drawbacks and where can it truly add a value. Now enough of talking! In the next article, we will get our hands dirty on some real-world problem and create our very first blockchain application.&lt;/p&gt;
 </description>
         <pubDate>Thu, 20 Sep 2018 00:00:00 +0530</pubDate>
-        <link>https://anandjoshi.me/articles/2018-09/Blockchain-The-Internet-of-Trust</link>
-        <guid isPermaLink="true">https://anandjoshi.me/articles/2018-09/Blockchain-The-Internet-of-Trust</guid>
+        <link>http://localhost:4000/articles/2018-09/Blockchain-The-Internet-of-Trust</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2018-09/Blockchain-The-Internet-of-Trust</guid>
         
         <category>geek</category>
         
@@ -442,8 +442,8 @@ sequenceDiagram
 &lt;p class=&quot;notice&quot;&gt;I hope this was helpful. I would be happy to take your questions/suggestions and feedback.&lt;/p&gt;
 </description>
         <pubDate>Sun, 10 Dec 2017 00:00:00 +0530</pubDate>
-        <link>https://anandjoshi.me/articles/2017-12/Understanding-Bitcoin</link>
-        <guid isPermaLink="true">https://anandjoshi.me/articles/2017-12/Understanding-Bitcoin</guid>
+        <link>http://localhost:4000/articles/2017-12/Understanding-Bitcoin</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-12/Understanding-Bitcoin</guid>
         
         <category>geek</category>
         
@@ -508,8 +508,8 @@ sequenceDiagram
 &lt;p class=&quot;notice&quot;&gt;The cryptocurrency market is under wild speculation now. This article is not aimed at providing any investment tips but rather understand the technology and its impact on the financial markets.&lt;/p&gt;
 </description>
         <pubDate>Thu, 30 Nov 2017 00:00:00 +0530</pubDate>
-        <link>https://anandjoshi.me/articles/2017-11/Decrypting-Crypto-Currencies</link>
-        <guid isPermaLink="true">https://anandjoshi.me/articles/2017-11/Decrypting-Crypto-Currencies</guid>
+        <link>http://localhost:4000/articles/2017-11/Decrypting-Crypto-Currencies</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-11/Decrypting-Crypto-Currencies</guid>
         
         <category>geek</category>
         
@@ -586,8 +586,8 @@ the mountain and river&lt;/p&gt;
 &lt;p&gt;– Dedicated to my river, now my lake &lt;i class=&quot;fa fa-heart heart-icon&quot;&gt;&lt;/i&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 11 Oct 2017 00:00:00 +0530</pubDate>
-        <link>https://anandjoshi.me/articles/2017-10/The-Mountain-and-the-river</link>
-        <guid isPermaLink="true">https://anandjoshi.me/articles/2017-10/The-Mountain-and-the-river</guid>
+        <link>http://localhost:4000/articles/2017-10/The-Mountain-and-the-river</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-10/The-Mountain-and-the-river</guid>
         
         <category>poem</category>
         
@@ -694,8 +694,8 @@ You’ve got one life - so live it to its fullest !&lt;/p&gt;
 &lt;center&gt;-- A Backpacker  &lt;i class=&quot;fa fa-heart heart-icon&quot;&gt;&lt;/i&gt;&lt;/center&gt;
 </description>
         <pubDate>Sun, 21 May 2017 00:00:00 +0530</pubDate>
-        <link>https://anandjoshi.me/articles/2017-05/Backpack-and-guitar</link>
-        <guid isPermaLink="true">https://anandjoshi.me/articles/2017-05/Backpack-and-guitar</guid>
+        <link>http://localhost:4000/articles/2017-05/Backpack-and-guitar</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-05/Backpack-and-guitar</guid>
         
         <category>travel</category>
         
@@ -945,8 +945,8 @@ We started our trek from Taluka with Prakash and another solo trekker who became
 Contact &lt;a href=&quot;https://www.facebook.com/profile.php?id=100008402793074&quot; target=&quot;_blank&quot;&gt;Prakash Rana&lt;/a&gt; if you’re looking for a personal guide. He conducts many other treks, some of them with his father too. Happy trekking and exploring :)&lt;/p&gt;
 </description>
         <pubDate>Sat, 31 Dec 2016 00:00:00 +0530</pubDate>
-        <link>https://anandjoshi.me/articles/2016-12/Into-the-Wild</link>
-        <guid isPermaLink="true">https://anandjoshi.me/articles/2016-12/Into-the-Wild</guid>
+        <link>http://localhost:4000/articles/2016-12/Into-the-Wild</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2016-12/Into-the-Wild</guid>
         
         <category>travel</category>
         
@@ -996,8 +996,8 @@ Contact &lt;a href=&quot;https://www.facebook.com/profile.php?id=100008402793074
 &lt;p&gt;It’s time to shrug that dust off your wings and it’s time to &lt;a href=&quot;/articles/2016-07/The-Flight&quot; target=&quot;_blank&quot;&gt;FLY&lt;/a&gt;  !&lt;/p&gt;
 </description>
         <pubDate>Tue, 13 Dec 2016 00:00:00 +0530</pubDate>
-        <link>https://anandjoshi.me/articles/2016-12/Time-to-fly</link>
-        <guid isPermaLink="true">https://anandjoshi.me/articles/2016-12/Time-to-fly</guid>
+        <link>http://localhost:4000/articles/2016-12/Time-to-fly</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2016-12/Time-to-fly</guid>
         
         <category>philosphy</category>
         
@@ -1057,8 +1057,8 @@ but you know what , I want, I want every single page of that book to be a thrill
 &lt;p&gt;It is funny to see what an &lt;code class=&quot;highlighter-rouge&quot;&gt;old letter&lt;/code&gt; can do in five minutes, what a person could not in a decade’s worth of time !&lt;/p&gt;
 </description>
         <pubDate>Thu, 03 Nov 2016 00:00:00 +0530</pubDate>
-        <link>https://anandjoshi.me/articles/2016-11/An-Old-Letter</link>
-        <guid isPermaLink="true">https://anandjoshi.me/articles/2016-11/An-Old-Letter</guid>
+        <link>http://localhost:4000/articles/2016-11/An-Old-Letter</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2016-11/An-Old-Letter</guid>
         
         <category>motivation</category>
         
@@ -1160,8 +1160,8 @@ Look at the private method &lt;code class=&quot;highlighter-rouge&quot;&gt;__fnv
 &lt;p class=&quot;notice&quot;&gt;With this, we have some basic understanding of URL Shorteners. The demo project &lt;a href=&quot;https://github.com/anandjoshi91/url-shortener&quot; target=&quot;_blank&quot;&gt;url-shortener&lt;/a&gt; in quite naive and created for this tutorial. Do check it out and let me know if you have any improvements in it. Feel free to send a pull request and looking forward to your views, opinions, and tips in the comments below.&lt;/p&gt;
 </description>
         <pubDate>Sat, 22 Oct 2016 00:00:00 +0530</pubDate>
-        <link>https://anandjoshi.me/articles/2016-10/URL-Shortening</link>
-        <guid isPermaLink="true">https://anandjoshi.me/articles/2016-10/URL-Shortening</guid>
+        <link>http://localhost:4000/articles/2016-10/URL-Shortening</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2016-10/URL-Shortening</guid>
         
         <category>url shortening</category>
         
