@@ -143,8 +143,8 @@ graph TD
     ds(Digital Signature)
     sk>Shared Secret Key]
 
-    sk -.-> h
     m -.->  h --> |Generate mac|mac
+    sk -.-> h
     pri_key -.-> |encrypt mac|mac --> ds
 </div>
 
