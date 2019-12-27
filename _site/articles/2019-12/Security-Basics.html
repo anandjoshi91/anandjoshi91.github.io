@@ -159,13 +159,13 @@ Happy Coding \m/
     <h1 title="Security Basics">Security Basics</h1>
     <span class="post-meta">
       <span class="post-date">
-        12 DEC 2019
+        27 DEC 2019
       </span>
       •
       <span class="read-time" title="Estimated read time">
   
   
-    9 mins read
+    8 mins read
   
 </span>
 
@@ -193,22 +193,20 @@ Happy Coding \m/
 <p><strong>1)</strong> When Alice sends a message to Bob it can be intercepted by Eve
 during the transmission. This is called <code class="highlighter-rouge">interception</code>.</p>
 
-<script src="/js/mermaid.min.js"></script>
 <div class="mermaid">
 sequenceDiagram
     participant Alice
     participant Eve
     participant Bob
-    
+ 
     Alice-&gt;&gt;Eve: "My bank details are xxx"
     Note right of Alice: Sharing important <br /> details without <br /> encryption
     Note over Eve: Eavesdropper <br /> intercepting message
-    Eve-&gt;&gt;Bob: "My bank details are xxx"
+    Eve-&gt;&gt;Bob: "My bank details are xxx" 
 </div>
 
 <p><strong>2)</strong> Even though Alice meant for the message to be sent to Bob, there is a chance that Eve was posing as Bob. Conversely, although Bob believes he received a message from Alice there’s a chance it was Eve posing as Alice. This is called <code class="highlighter-rouge">spoofing</code>.</p>
 
-<script src="/js/mermaid.min.js"></script>
 <div class="mermaid">
 sequenceDiagram
     participant Bob
@@ -221,13 +219,12 @@ sequenceDiagram
 
 <p><strong>3)</strong> Even if the message was transmitted by Alice to Bob, Eve could have overwritten the message during transmission. This is called <code class="highlighter-rouge">falsification</code>. In addition to intentional falsification by third parties, there’s also the chance the delivered message was corrupted by malfunctioning devices or channels.</p>
 
-<script src="/js/mermaid.min.js"></script>
 <div class="mermaid">
 sequenceDiagram
     participant Alice
     participant Eve
     participant Bob
-    
+ 
     Alice-&gt;&gt;Eve: I love you &lt;3
     Note over Eve: Message modified by <br /> malicious entity
     Eve-&gt;&gt;Bob: I hate you !
@@ -236,7 +233,6 @@ sequenceDiagram
 
 <p><strong>4)</strong> While Bob believes he received a message from Alice if the sender of the message Alice had some malicious intent there is a chance she might insist later that she did not send that message ! This problem is called <code class="highlighter-rouge">repudiation</code>.</p>
 
-<script src="/js/mermaid.min.js"></script>
 <div class="mermaid">
 sequenceDiagram
     participant Alice
@@ -245,7 +241,7 @@ sequenceDiagram
     Alice-&gt;&gt;Bob: I would like to order it...
     Note over Bob, Alice: Bob ships the items
     Bob-&gt;&gt;Alice: Thanks. That will be $500
-    Alice-&gt;&gt;Bob: Sorry. I had not ordered anything
+    Alice-&gt;&gt;Bob: Sorry. I had not ordered anything 
 </div>
 
 <p>These four problems are not limited to exchanges between people, but can also occur while browsing a website.</p>
@@ -312,7 +308,6 @@ sequenceDiagram
 
 <p>In this mechanism both the sender and the receiver, use a shared secret key. This key is not known to anyone else [Similar to Shared-Key Cryptosystem]. While sending the message the sender calculates the hash of the message using the secret key, this generated code or checksum value is called <code class="highlighter-rouge">MAC</code>. The sender sends this MAC along with the original message. The receiver on receiving the message calculates the MAC again from the message and compares it with the MAC sent by the sender. If the MACs are different than the message is discarded and not trusted. Since the key is secret, the interceptor can not modify and correctly generate the MAC.</p>
 
-<script src="/js/mermaid.min.js"></script>
 <div class="mermaid">
 sequenceDiagram
     participant Alice
@@ -337,7 +332,6 @@ sequenceDiagram
 <p>A digital signature system guarantees non-repudiation in addition to authentication and falsification
 detection, the two functions implemented by message authentication codes. It uses public key cryptography to generate a signature. The process is quite similar to HMAC as described above. The MAC generated is encrypted by the private key of the sender. The receiver will calculate the MAC from the received message and compare it by decrypting the MAC. The decryption is done using the sender’s public key. The encrypted MAC can be used as a <code class="highlighter-rouge">Digital Signature</code> of the sender. However, there is one problem with this. How do we ensure that the public key of the sender is indeed the one claimed by the sender ? This is solved by <code class="highlighter-rouge">Digital Certificate</code>.</p>
 
-<script src="/js/mermaid.min.js"></script>
 <div class="mermaid">
 graph TD
     h[\Hash Fn/]
@@ -360,7 +354,6 @@ graph TD
 
 <p>The certificate authority has their own public keys and secret keys that they generate themselves. If Alice wants her digital certificate, she prepares her personal information including her public key and sends it to a CA. The CA after confirmation of the details use their secret key to sign or create a digital signature from Alice’s data. The digital signature and the user data is combined into a file and sent to Alice. This becomes Alice’s digital certificate.</p>
 
-<script src="/js/mermaid.min.js"></script>
 <div class="mermaid">
 sequenceDiagram
     participant Alice
@@ -371,14 +364,11 @@ sequenceDiagram
     Note over Certificate Authority: Verify the details
     Note over Certificate Authority: Sign the details
     Certificate Authority-&gt;&gt;Alice: Send back Digital Certificate
-
 </div>
 
 <p>Now if anyone wants to interact with Alice they would first request her Digital Certificate. Then they would acquire CA’s public key to verify the signature. This way we can be sure about the identity of Alice. Once the identity is confirmed the user can use Alice’s public key to securely communicate with Alice using <a href="#encryption">Hybrid Cryptosystem</a> as described earlier. This is how the SSL certificates work. Instead of a person Alice, it is the website and your browser does the work of verifying the certificate with CAs.</p>
 
-<script src="/js/mermaid.min.js"></script>
 <div class="mermaid">
-
 sequenceDiagram
     participant somewebsite.com
     participant Bob
@@ -392,7 +382,6 @@ sequenceDiagram
    Note over Bob: 6. On successful <br /> verification uses <br /> public key of website <br /> to share secret key
    Bob-&gt;&gt;somewebsite.com: 7. Sends secret shared key
    Note over somewebsite.com, Bob: 8. Use this shared key for secure <br /> communication 
-
 </div>
 
 <p class="notice">Hope this gives you some more idea about how cryptography is used for web security. Let me know your thoughts and suggestions in the comment section below.</p>
@@ -514,6 +503,11 @@ sequenceDiagram
   </div>
   <script type="text/javascript" src="http://localhost:4000/js/jquery-2.1.4.min.js"></script>
 <script type="text/javascript" src="http://localhost:4000/js/main.js"></script>
+
+<!-- mermaidjs -->
+<script src="http://localhost:4000/js/mermaid.min.js"></script>
+<script>mermaid.initialize({startOnLoad:true});</script>
+
 
 <!-- Asynchronous Google Analytics snippet -->
 <script>
