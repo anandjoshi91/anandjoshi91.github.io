@@ -96,7 +96,7 @@ Encryption is the process of encoding a message or information in such a way tha
 
 These are the types of encryption systems.
 
-1. **Shared-Key Cryptosystem** : The sender and receiver use identical keys to encode and decde the message. Since the same key is used this type of system processes data much faster but the issue is how do we safely transfer this key. One way to do this is by using [Diffie–Hellman key exchange](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange){:target="_blank"} algorithm. Some examples - Caesar Cipher, AES, DES, OTP.
+1. **Shared-Key Cryptosystem** : The sender and receiver use identical keys to encode and decode the message. Since the same key is used this type of system processes data much faster but the issue is how do we safely transfer this key. One way to do this is by using [Diffie–Hellman key exchange](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange){:target="_blank"} algorithm. Some examples - Caesar Cipher, AES, DES, OTP.
 
 2. **Public-Key Cryptosystem** : It uses two different keys. The `public key` is used for encryption and the `private key` is used for decryption. It is easy to safely share the public key in this system however the data processing is a bit slow compared to the Shared-Key Cryptosystem. Some examples - RSA Encryption, Elliptic Curve Cryptography.
 
@@ -134,19 +134,8 @@ The above discussed method is called Hashed based message authentication code or
 A digital signature system guarantees non-repudiation in addition to authentication and falsification
 detection, the two functions implemented by message authentication codes. It uses public key cryptography to generate a signature. The process is quite similar to HMAC as described above. The MAC generated is encrypted by the private key of the sender. The receiver will calculate the MAC from the received message and compare it by decrypting the MAC. The decryption is done using the sender's public key. The encrypted MAC can be used as a `Digital Signature` of the sender. However, there is one problem with this. How do we ensure that the public key of the sender is indeed the one claimed by the sender ? This is solved by `Digital Certificate`.
 
-<div class="mermaid">
-graph TD
-    h[\Hash Fn/]
-    m[Message]
-    mac{MAC}
-    pri_key>Private Key]
-    ds(Digital Signature)
-    sk>Shared Secret Key]
+<img src="/img/2019/digital-sig.png" alt="Digital Signature" />
 
-    m -.->  h --> |Generate mac|mac
-    sk -.-> h
-    pri_key -.-> |encrypt mac|mac --> ds
-</div>
 
 ## Digital Certificates
 
