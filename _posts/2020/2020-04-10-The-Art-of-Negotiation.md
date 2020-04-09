@@ -3,7 +3,7 @@ layout: post
 title: The art of Negotiation
 excerpt: "An essential guide to a successful negotiation"
 categories: [social,geek]
-tag: [negotiation, lifehack, practical]
+tag: [negotiation, lifehack, practical, negotiationskill]
 comments: true
 author: Anand
 image:
@@ -12,15 +12,15 @@ image:
 ---
 Unless you’re marooned on an uninhabited island or the sole survivor of an extraterrestrial exploration mission, you will inevitably have to `negotiate` with another person at some point in time. It is therefore imperative that you equip yourself with this lifelong skill.
 
-The first thing that you need to understand is that negotiation has to be a win-win situation for both parties, failing to do that will result in loss of faith, bad relationship and worse a situation that will backfire on you. The below diagram gives a rough sketch of the 4 major outcomes of a deal, with the top left corner representing the highest magnitude of the loss for both the parties and bottom-right representing a healthy partnership bringing huge returns for both the parties.
+The first thing that you need to understand is that negotiation has to be a win-win situation for both parties [or atleast on the face of it], failing to do that will result in loss of faith, bad relationship and worse a situation that will backfire on you. The below diagram gives a rough sketch of the 4 major outcomes of a deal, with the top left corner representing the highest magnitude of the loss for both the parties and bottom-right representing a healthy partnership bringing huge returns for both the parties.
 
 <p align="center">
     <img src="/img/2020/negotiation-cases.png" alt="Negotation cases chart" />
 </p>
 
-The diagram above gives us a clear picture of what we should strive to do in order to lead the agreement to the bottom right corner. However, more often than not, in a real life situation we do not know these boundaries. The negotiating parties deliberately hide these boundaries thinking that it will give them an upper hand in the negotiation, which is true to certain extent, but what this mindset does is it inevitably leads both parties to pull each other in their zone [highlighted orange in the above diagram]. This tug-of-war if not handled gracefully [which happens most of the time] leads them to a complete dissent and throws them both to the red zone as shown above. This is quite similar to a classic [game theory example](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma){:target="_blank"}.
+The diagram above gives us a clear picture of what we should strive to do in order to lead the agreement to the bottom right corner. However, more often than not, in a real life situation we `do not know these boundaries`. The negotiating parties deliberately hide these boundaries thinking that it will give them an upper hand in the negotiation, which is true to certain extent, but what this mindset does is it inevitably leads both parties to pull each other in their zone [highlighted orange in the above diagram]. This tug-of-war if not handled gracefully [which happens most of the time] leads them to a complete dissent and throws them both to the red zone as shown above. This is quite similar to a classic [game theory example](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma){:target="_blank"}.
 
-So to have a successful negotiation, one must learn how to break the tension, not sound  greedy but at the same time extract as much information as you can. Here are some of the most essential techniques used by professional negotiator.
+So to have a successful negotiation, one must learn how to break the tension, not sound  greedy but at the same time extract as much information as you can so that you can pull the other party towards your zone but in a way that your negotiating partner accepts it willingly. Here are some of the most essential techniques used by professional negotiator.
 
 
 ## Techniques
