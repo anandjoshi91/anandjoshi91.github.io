@@ -39,7 +39,7 @@ So to have a successful negotiation, one must learn how to break the tension, no
 
 ### Mirroring
 
-`Mirroring` conscious repetition of your counterpart’s words. They are designed to show the other side that you’re listening to them and understanding them. It also helps in getting more information from the other party. For example,
+`Mirroring` is a conscious repetition of your counterpart’s words. They are designed to show the other side that you’re listening to them and understanding them. It also helps in getting more information from the other party. For example,
 
 Your negotiating partner:
 
@@ -131,11 +131,11 @@ The point of the Ackerman system is to make the other side feel that every price
 ### The 7-38-55 Rule
 
 In interpersonal communications, 7 percent of a person’s effort is conveyed
-via spoken words, 38 percent by tone of voice, and 55 percent through body language. All of which is to say, your tone of `voice is more than five times as important` as what you’re actually saying. If your counterpart’s tone of voice and body language indicate that he or she is about to lose their bearings, harness the power of your `late-night FM DJ` voice to soothe your counterpart and slow down the pace of the negotiation.
+via spoken words, 38 percent by tone of voice, and 55 percent through body language. All of which is to say, your tone of voice is more than `five times` as important as what you’re actually saying. If your counterpart’s tone of voice and body language indicate that he or she is about to lose their bearings, harness the power of your `late-night FM DJ` voice to soothe your counterpart and slow down the pace of the negotiation.
 
 ### Find the black Swan
 
-Black swans are pieces of innocuous information that, if revealed, can change the course of the whole negotiation. In many ways, `negotiation is all about finding the black swans`. To discover them, you must open your mind, maintain an endless curiosity, and be on the lookout for surprises.
+Black swans are pieces of innocuous information that, if revealed, can change the course of the whole negotiation. In many ways, negotiation is all about finding the `black swans`. To discover them, you must open your mind, maintain an endless curiosity, and be on the lookout for surprises.
 
 <br/>
 
