@@ -2,8 +2,8 @@
 layout: post
 title: Measuring success
 excerpt: "Let's venture together to find out what you're worth and how can you get the most from this life"
-categories: [social, geek, success, purpose]
-tag: [worth, success, wealth]
+categories: [social, geek]
+tag: [worth, success, wealth, success, purpose]
 comments: true
 author: Anand
 image:
