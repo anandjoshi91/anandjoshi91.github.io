@@ -39,4 +39,4 @@ Jisse, dhundhu mein har ek raat...
 
 <br/>
 
--- Seek here till you find her <i class="fa fa-search" aria-hidden="true"></i>
+-- Seeker <i class="fa fa-search" aria-hidden="true"></i>
