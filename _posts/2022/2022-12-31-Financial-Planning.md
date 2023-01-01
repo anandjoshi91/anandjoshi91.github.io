@@ -34,7 +34,7 @@ Save up to $1,000 (depending on your region/cost of living it can be adjusted. E
 
 ### 2. Pay of debt
 
-While a lot of smart and savvy investors talk about growing rich using debt, for an average Joe this is a bain rather than a boon. List down all your debts - credit cards, education, personal, etc. (except mortgage - home loan).
+While a lot of smart and savvy investors talk about growing rich using debt, for an average Joe this is a bane rather than a boon. List down all your debts - credit cards, education, personal, etc. (except mortgage - home loan).
 
 Aggressively start paying them in advance. Mathematically paying the one with the highest interest will save you more money but if there are multiple smaller ones and knocking them off makes you happy, feel free to do so.
 
@@ -93,9 +93,11 @@ Congratulations, you have elevated yourself from the masses and put yourself in 
 
 Retirement has a different meanings for different people. While some might see retirement as leaving the workplace at 65 and relaxing, others might see retirement as quitting their job in the '30s and starting a second career. Whatever your goal, [calculate](https://www.investopedia.com/retirement/how-much-you-should-have-saved-age/){:target="_blank"} how much returns your passive income should generate to sustain the life you desire.
 
-### Conclusion
+### In the end ...
 
-In the end, enjoy this whole process of getting wealthy. Don’t be cheap; spend money on things that you truly enjoy and that give you happiness, but cut down on spending on things that don’t matter much. For example, I like traveling, and I don’t mind spending more on exploring new places and enjoying new experiences, but I don’t care much about fancy hotels or business class flights.
+ enjoy this whole process of getting wealthy. Don’t be cheap; spend money on things that you truly enjoy and that give you happiness, but cut costs on things that don’t matter much.
+
+For me, the experiences I gain through traveling are priceless. So, rather than wasting money on fancy hotels or business class flights, I prefer to spend it on exploring new places and having new adventures. Use your money on things that are `meaningful to you` and will help you create memories for a lifetime!
 
 ### Learning resources
 
