@@ -12,7 +12,7 @@ image:
 
 
 In the pursuit of perfection, we often struggle to acknowledge our mistakes and imperfections. 
-The Japanese art of Kintsugi beautifully exemplifies the profound beauty that emerges from embracing flaws. Kintsugi involves repairing broken pottery by filling the cracks with lacquer mixed with powdered gold, silver, or platinum. Rather than concealing the fractures, this art form highlights them, turning the mended object into a stunning mosaic of resilience.
+The Japanese art of `Kintsugi` beautifully exemplifies the profound beauty that emerges from embracing flaws. Kintsugi involves repairing broken pottery by filling the cracks with lacquer mixed with powdered gold, silver, or platinum. Rather than concealing the fractures, this art form *highlights* them, turning the mended object into a stunning mosaic of resilience.
 
 <p align="center">
 	<img src="/img/2023/kintsugi.jpeg" alt="kintsugi">
