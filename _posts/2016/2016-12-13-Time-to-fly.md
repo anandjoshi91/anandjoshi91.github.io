@@ -2,8 +2,8 @@
 layout: post
 title: Time to Fly
 excerpt: "Move on !"
-categories: [philosphy]
-tag: [philosphy,motivation,forgiveness]
+categories: [philosophy]
+tag: [philosophy,motivation,forgiveness]
 comments: true
 author: Anand
 image:

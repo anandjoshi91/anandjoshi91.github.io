@@ -139,7 +139,7 @@ permalink: /search/
 </div>
 ~~~
 
-Now create html layout for search form where the user would enter the quey.
+Now create html layout for search form where the user would enter the query.
 Customize css as per your blog design.  
 Include this layout on the pages you would want search feature.
 

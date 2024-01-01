@@ -2,7 +2,7 @@
 layout: post
 title: Nothing Lasts Forever
 excerpt: "Life is short ! Don't be so serious"
-categories: [philosphy]
+categories: [philosophy]
 tag: [motivation,philosophy]
 comments: true
 author: Anand
