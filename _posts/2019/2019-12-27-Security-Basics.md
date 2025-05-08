@@ -98,7 +98,7 @@ These are the types of encryption systems.
 
 1. **Shared-Key Cryptosystem** : The sender and receiver use identical keys to encode and decode the message. Since the same key is used this type of system processes data much faster but the issue is how do we safely transfer this key. One way to do this is by using [Diffie–Hellman key exchange](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange){:target="_blank"} algorithm. Some examples - Caesar Cipher, AES, DES, OTP.
 
-2. **Public-Key Cryptosystem** : It uses two different keys. The `public key` is used for encryption and the `private key` is used for decryption. It is easy to safely share the public key in this system however the data processing is a bit slow compared to the Shared-Key Cryptosystem. Some examples - RSA Encryption, Elliptic Curve Cryptography.
+2. **Public-Key Cryptosystem** : It uses two different keys. The `public key` is used for encryption and the `private key` is used for decryption. It is easy to safely share the public key in this system however the data processing is a bit slow compared to the Shared-Key Cryptosystem. Some examples - [RSA Encryption](https://onlinequicktool.com/rsa-key-generator/){:target="_blank"}, Elliptic Curve Cryptography.
 
 3. **Hybrid-Key Cryptosystem** : This system combines the above two systems to compensate for eachother's drawbacks. Here we safely exchange a key over an insecure channel by using Public-Key Cryptosystem. After this all subsequent communication happens by using this exchanged key, just like in a Shared-Key Cryptosystem.
 

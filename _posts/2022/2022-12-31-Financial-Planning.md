@@ -81,7 +81,7 @@ Now the question most people have here is what should be my allocation in differ
 
 ### 6. Pay off your house debt
 
-Once you have a systematic investment plan set up, ensure it's never below 20% of your monthly income. In other words, you must save at least 20% of your salary. If you can manage this without any additional burden on your lifestyle and still have extra cash, then it's time to tackle the home loan.
+Once you have a systematic investment plan set up, ensure it's never below 20% of your monthly income. In other words, you must save at least 20% of your salary. If you can manage this without any additional burden on your lifestyle and still have extra cash, then it's time to tackle the home loan. You can use [loan calculators](https://onlinequicktool.com/loan-calculator/){:target="_blank"} to determine your ideal tenure and/or monthly payment.
 
 Some might say this can take a long time, but it's not quite impossible either. For a good average productive person, their income should grow faster than their lifestyle cost and there will always be chances where that extra money can be put to good use. The idea is to take off your burden and make you financially free. You want to be happy doing this and not miserable.
 
@@ -91,7 +91,7 @@ Congratulations, you have elevated yourself from the masses and put yourself in 
 
 ### Retirement
 
-Retirement has a different meanings for different people. While some might see retirement as leaving the workplace at 65 and relaxing, others might see retirement as quitting their job in the '30s and starting a second career. Whatever your goal, [calculate](https://www.investopedia.com/retirement/how-much-you-should-have-saved-age/){:target="_blank"} how much returns your passive income should generate to sustain the life you desire.
+Retirement has a different meanings for different people. While some might see retirement as leaving the workplace at 65 and relaxing, others might see retirement as quitting their job in the '30s and starting a second career. Whatever your goal, [calculate](https://onlinequicktool.com/retirement-calculator/){:target="_blank"} how much returns your passive income should generate to sustain the life you desire.
 
 ### In the end ...
 
