@@ -53,4 +53,13 @@ sitemap:
     </url>
     {% endunless %}
   {% endfor %}
+  {% comment %} External URLs from data file {% endcomment %}
+  {% for external in site.data.external_urls %}
+    <url>
+      <loc>{{ site.url }}{{ external.url }}</loc>
+      <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+      <changefreq>{{ external.changefreq | default: 'monthly' }}</changefreq>
+      <priority>{{ external.priority | default: '0.5' }}</priority>
+    </url>
+  {% endfor %}
 </urlset>

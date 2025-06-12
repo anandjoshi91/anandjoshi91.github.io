@@ -1,0 +1,6 @@
+- url: /chessboard-image-to-fen
+  changefreq: monthly
+  priority: 0.6
+- url: /ChessboardFenTensorflowJs
+  changefreq: monthly
+  priority: 0.6
